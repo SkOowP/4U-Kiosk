@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Burgers",
+      "img": "/icons/burger.png"
+    },
+    {
+      "name": "Pizza",
+      "img": "/icons/pizza.png"
+    },
+    {
+      "name": "Tacos",
+      "img": "/icons/tacos.png",
+      "items": [
+        {
+          "name": "Tacos Chicken",
+          "img": "/img/tacosChiken.png",
+          "id": 1,
+          "count": 0,
+          "price": 30
+        },
+        {
+          "name": "Tacos Meat",
+          "img": "/img/tacosMeat.png",
+          "id": 2,
+          "count": 0,
+          "price": 30
+        },
+        {
+          "name": "Tacos Mixte",
+          "img": "/img/tacosMixt.png",
+          "id": 3,
+          "count": 0,
+          "price": 30
+        },
+        {
+          "name": "Tacos Frida",
+          "img": "/img/tacosFrida.png",
+          "id": 4,
+          "count": 0,
+          "price": 30
+        }
+      ]
+    },
+    {
+      "name": "Steak",
+      "img": "/icons/meat.png"
+    },
+    {
+      "name": "Pasta",
+      "img": "/icons/pasta.png"
+    },
+    {
+      "name": "Chicken Plate",
+      "img": "/icons/chicken.png"
+    },
+    {
+      "name": "Drinks",
+      "img": "/icons/soda.png"
+    },
+    {
+      "name": "Dessert",
+      "img": "/icons/iceCream.png"
+    }
+  ]
+}

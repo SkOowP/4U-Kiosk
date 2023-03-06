@@ -1,0 +1,30 @@
+html,
+body {
+    padding: 0 50px;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+
+
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width: 960px) {
+    body {
+        padding: 0;
+    }
+}
+
+.MuiButton-label {
+    font-size: 20px;
+}
